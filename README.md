@@ -47,11 +47,11 @@ The goal is to install and configure Active Directory Domain Services, create a 
 
 ## **Lab Structure**
 
-1. Active Directory Installation
+1. [Active Directory Installation](01-active-directory-installation.md)
     
-2. Domain Join
+2. [Domain Join](02-domain-join.md)
     
-3. Remote Desktop Configuration
+3. [Remote Desktop Configuration](03-remote-desktop-configuration.md)
     
 
 
