@@ -72,7 +72,11 @@ Remote Desktop is successfully enabled on PC2. The system automatically enables 
 
 ## **3.5 Verify RDP Firewall Rules**
 
+<br>
+
 Remote Desktop firewall rules are verified using Windows Defender Firewall with Advanced Security.
+
+<br>
 
 ### **PC2 - Firewall Verification**
 
