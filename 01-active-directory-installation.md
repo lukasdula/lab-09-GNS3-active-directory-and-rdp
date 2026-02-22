@@ -1,7 +1,7 @@
 
 <br>
 
-# **1 - Active Directory Installation on Windows Server 2022**
+# **1 - Active Directory Installation**
 
 
 <br>
@@ -51,7 +51,7 @@ Active Directory provides centralized authentication and management of users and
 
 <br>
 
-## **1.5 - Active Directory Installation**
+## **1.5 - Active Directory Installation on Windows Server 2022**
 
 Active Directory Domain Services (AD DS) is installed using Server Manager. The role is added through the "Add Roles and Features" wizard. During installation, required management tools and DNS components are included automatically.
 
