@@ -369,4 +369,4 @@ The Active Directory environment is now prepared for client integration. In the 
 <br>
 
 
-**Next Chapter:**
+**Next Chapter:** [Domain Join](02-domain-join.md)
