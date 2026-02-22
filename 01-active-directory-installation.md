@@ -78,6 +78,7 @@ Install Active Directory Domain Services
 
 The Active Directory Domain Services role is successfully installed on SERVER-DC1. The server is now ready to be configured as a Domain Controller in the next step.
 
+<br>
 
 ## **1.6 Configure Domain Controller - Create New Forest**
 
