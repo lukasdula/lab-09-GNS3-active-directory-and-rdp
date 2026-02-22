@@ -52,9 +52,10 @@ In this chapter, the Domain Controller is renamed to SERVER-DC1 for clear and si
 
 In real environments, the server name should be set before installing Active Directory. Renaming a Domain Controller after installation is possible, but it is not the best practice.
 
+
 *In this lab, the rename process is done correctly using PowerShell.*
 
-
+<br>
 
 ### **SERVER-DC1 - Rename Command**
 
