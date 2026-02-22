@@ -65,7 +65,7 @@ Rename-Computer -NewName SERVER-DC1 -Restart
 
 This command renames the Domain Controller and automatically restarts the server to apply changes.
 
-
+<br>
 
 ### **Results:**  
 
