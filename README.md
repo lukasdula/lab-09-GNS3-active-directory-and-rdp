@@ -10,7 +10,7 @@
 
 This lab demonstrates the deployment of a Windows domain environment using Windows Server as a Domain Controller and two Windows 10 Enterprise client computers. The project focuses on centralized authentication, DNS-based domain resolution, and secure Remote Desktop communication inside the lab.local domain.
 
-The goal is to install and configure Active Directory Domain Services, create a new forest and domain structure, integrate client systems, apply firewall rules, and verify secure remote access using domain credentials and group-based permissions.
+The goal is to install and configure Active Directory Domain Services, create a new forest and domain structure, integrate client systems, apply firewall rules, and test secure remote access with domain user accounts and group access.
 
 
 <br>
