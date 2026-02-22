@@ -1,7 +1,7 @@
 
 <br>
 
-# **Active Directory and RDP Infrastructure**
+# **Active Directory and Remote Desktop Protocol**
 
 
 <br>
