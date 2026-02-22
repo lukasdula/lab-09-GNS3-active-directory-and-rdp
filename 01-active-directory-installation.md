@@ -38,6 +38,7 @@ Active Directory provides centralized authentication and management of users and
 7. Verify Active Directory functionality using PowerShell
 
 
+<br>
 
 
 ## **1.4 IP Addressing Overview**
