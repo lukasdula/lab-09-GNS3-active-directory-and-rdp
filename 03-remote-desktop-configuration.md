@@ -8,7 +8,7 @@
 
 ## **3.1 Introduction**
 
-This last chapter focuses on configuring and testing Remote Desktop between two domain-joined client computers (PC1 and PC2) inside the lab.local domain.
+This last chapter focuses on configuring and testing Remote Desktop Connection between two domain-joined client computers (PC1 and PC2) inside the lab.local domain.
 
 The goal is to enable Remote Desktop on PC2, configure the required firewall settings, assign the correct permissions for domain users, and verify that remote access works correctly.
 
