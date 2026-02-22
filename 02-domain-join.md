@@ -426,6 +426,6 @@ Active Directory now contains both computer objects, and the domain is fully ope
 
 <br>
 
-**Final Chapter:**
+**Final Chapter:** [Remote Desktop Configuration](03-remote-desktop-configuration.md)
 
 
